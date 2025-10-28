@@ -1,1 +1,1 @@
- ![мяу](images/img.jpg)
+![мяу](images/img.jpg)
