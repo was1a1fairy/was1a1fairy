@@ -4,7 +4,7 @@
 			<style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: limegreen;
+          color: darksalmon;
           font-size: 1.5em;
         }
 
@@ -17,7 +17,7 @@
           }
         }
       </style>
-      <strong>My Name is Livio and I like <span class="blink">Node.js</span></strong>
+      <strong>Привет, меня зовут Ари<span class="blink">!</span></strong>
 		</div>
 	</foreignObject>
 </svg>
