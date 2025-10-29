@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
+          font-family:Andale Mono, monospace;
           color: darksalmon;
           font-size: 1.5em;
         }
@@ -17,7 +17,7 @@
           }
         }
       </style>
-      <strong>Привет, меня зовут Ари<span class="blink">!</span></strong>
+      <strong>ПРИВЕТ, МЕНЯ ЗОВУТ АРИ<span class="blink">!</span></strong>
 		</div>
 	</foreignObject>
 </svg>
